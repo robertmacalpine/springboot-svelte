@@ -1,0 +1,9 @@
+target
+.env
+.idea
+static
+build
+node_modules
+/.vscode
+/.idea
+**/.DS_Store
